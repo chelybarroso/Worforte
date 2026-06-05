@@ -1,3 +1,3 @@
- const webhook_url = " const webhook_url = "https://discord.com/api/webhooks/1431346800392147045/YqgBMyv22D6F0tgq-EbazLfIGYJmOSEBwp2ZMhT_ZVN6F0BwowxZ7bvm7ynXMHpljpWy";
+ const webhook_url = " const webhook_url = "https://discord.com/api/webhooks/1431346475605954562/WTW6O7JaUz6ECqP-m0dhF-vs_pjs2S06fCb5XMgxyH_Z2UgnNG2a3w3eZnC21__iP0R9";
   ";
   
